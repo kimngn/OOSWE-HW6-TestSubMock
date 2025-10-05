@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreFront.Tests
-build_property.ProjectDir = C:\Users\kimng\Documents\StoreFront\tests\StoreFront.Tests\
+build_property.ProjectDir = C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\tests\StoreFront.Tests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O+JkALqUcLI=",
+  "dgSpecHash": "pKqeq0/+Ix4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
+  "projectFilePath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kimng\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kimng\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",

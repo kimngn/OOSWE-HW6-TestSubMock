@@ -9,3 +9,15 @@ C:\Users\kimng\Documents\StoreFront\src\StoreFront.Core\obj\Debug\net8.0\StoreFr
 C:\Users\kimng\Documents\StoreFront\src\StoreFront.Core\obj\Debug\net8.0\refint\StoreFront.Core.dll
 C:\Users\kimng\Documents\StoreFront\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.pdb
 C:\Users\kimng\Documents\StoreFront\src\StoreFront.Core\obj\Debug\net8.0\ref\StoreFront.Core.dll
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\bin\Debug\net8.0\StoreFront.Core.deps.json
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\bin\Debug\net8.0\StoreFront.Core.dll
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\bin\Debug\net8.0\StoreFront.Core.pdb
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.AssemblyInfoInputs.cache
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.AssemblyInfo.cs
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.csproj.CoreCompileInputs.cache
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.sourcelink.json
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.dll
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\refint\StoreFront.Core.dll
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\StoreFront.Core.pdb
+C:\Users\kimng\Documents\StoreFront\OOSWE-HW6-TestSubMock\src\StoreFront.Core\obj\Debug\net8.0\ref\StoreFront.Core.dll

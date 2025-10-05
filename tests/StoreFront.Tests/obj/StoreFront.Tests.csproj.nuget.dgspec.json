@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj": {}
+    "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\StoreFront.Core.csproj": {
+    "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\StoreFront.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\StoreFront.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\StoreFront.Core.csproj",
         "projectName": "StoreFront.Core",
-        "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\StoreFront.Core.csproj",
+        "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\StoreFront.Core.csproj",
         "packagesPath": "C:\\Users\\kimng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\obj\\",
+        "outputPath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj": {
+    "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
         "projectName": "StoreFront.Tests",
-        "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
+        "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\StoreFront.Tests.csproj",
         "packagesPath": "C:\\Users\\kimng\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimng\\Documents\\StoreFront\\tests\\StoreFront.Tests\\obj\\",
+        "outputPath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\tests\\StoreFront.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,8 +96,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\StoreFront.Core.csproj": {
-                "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\src\\StoreFront.Core\\StoreFront.Core.csproj"
+              "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\StoreFront.Core.csproj": {
+                "projectPath": "C:\\Users\\kimng\\Documents\\StoreFront\\OOSWE-HW6-TestSubMock\\src\\StoreFront.Core\\StoreFront.Core.csproj"
               }
             }
           }
